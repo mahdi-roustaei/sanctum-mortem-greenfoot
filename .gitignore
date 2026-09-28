@@ -1,0 +1,24 @@
+# Generated Greenfoot / Java output
+*.class
+*.ctxt
+*.gfar
+*.jar
+/doc/
+/build/
+/out/
+/target/
+
+# Local player names and scores
+/highscores.txt
+
+# Downloaded asset packs and older project archives
+*.zip
+.zip
+
+# IDE and operating-system files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
